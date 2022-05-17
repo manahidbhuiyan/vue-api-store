@@ -36,6 +36,7 @@ export default {
     // checkout(){
     //  if (confirm("Are You sure to checkout")){
     //    this.$store.commit('removeCart')
+    //oenfioubhnwiubngerunbe5grubhigure5
     //  }
     // }
   },
@@ -60,7 +61,6 @@ computed : {
 }
 .list-group-item + .list-group-item{
   border-top-width: 1px;
-
 }
 .list-group-item:last-child {
   border-top-width: 1px;
